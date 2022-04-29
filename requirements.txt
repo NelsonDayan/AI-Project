@@ -1,0 +1,13 @@
+matplotlib
+notebook
+numpy
+pandas
+Pillow
+python-dateutil
+python-decouple
+python-engineio
+python-slugify
+python-socketio
+scikit-learn
+torch
+torchvision
